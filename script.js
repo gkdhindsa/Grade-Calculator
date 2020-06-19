@@ -20,13 +20,13 @@ function addMarks(){
     else if(grade>=80){
         g='B';
     }
-    else if(g>=70){
+    else if(grade>=70){
         g='C';
     }
-    else if(g>=60){
+    else if(grade>=60){
         g='D'
     }
-    else if(g>=50){
+    else if(grade>=50){
         g='E'
     }
     else{
