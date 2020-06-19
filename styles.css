@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+.calc-box{
+    text-align: center;
+    padding: 2%;
+    margin: 5% 10%;
+    border-radius: 2%;
+    background-color: #1b1a1a;
+    
+}
+td{
+    width: 40%;
+}
+td p{
+    font-size: 2.3em;
+}
+td >input{
+    width: 80%;
+    margin: 0.5em;
+    padding: 0.5em;
+    background-color: #1b1a1a;
+    border: 1px solid white;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+}
