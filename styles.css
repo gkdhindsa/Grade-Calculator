@@ -20,11 +20,11 @@ h1{
 td{
     width: 40%;
 }
-td p{
+p{
     font-size: 2.3em;
+    text-align: center;
 }
-td >input{
-    width: 80%;
+input, button{
     margin: 0.5em;
     padding: 0.5em;
     background-color: #1b1a1a;
@@ -32,4 +32,16 @@ td >input{
     color: white;
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
+
+}
+td>input{
+    width: 80%;
+}
+
+button{
+    width: 10em;  
+}
+.btn{
+    text-align: center;
+    justify-content: center;
 }
