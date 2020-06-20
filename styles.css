@@ -32,7 +32,9 @@ input, button{
     color: white;
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
-
+}
+.highlight-input{
+    border: 1px solid red;
 }
 td>input{
     width: 80%;
